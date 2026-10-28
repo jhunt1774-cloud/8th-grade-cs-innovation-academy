@@ -1,0 +1,1 @@
+Open START-HERE.html. The public student-site folder and private teacher-private folder are intentionally separate. Only publish the student-site contents. See DEPLOYMENT.md and teacher-private/IMPORT-AND-CLASSROOM.md for setup. The package is built locally; school-platform imports and deployment are not tested.
